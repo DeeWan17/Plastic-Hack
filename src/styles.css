@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+#description {
+    margin: 25px;
+}
+
+.description-text{
+    margin-left: 7%;
+    margin-right: 13%;
+    margin-bottom: 15px;
+    color:rgba(255, 255, 255, 0.863);
+}
