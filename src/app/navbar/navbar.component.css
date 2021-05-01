@@ -2,7 +2,7 @@
 
 #navbarGames{
     text-align: center;
-    padding-bottom: -10px;
+    padding-bottom: 20px;
   
 }
 
@@ -24,6 +24,7 @@
     padding-bottom: 10px;
     position: relative;
     border-radius: 20px;
+    margin-left: 20px;
     
 }
 
@@ -36,7 +37,7 @@
     filter: brightness(155%);
 }
 
-#csgo-logo{
+/* #csgo-logo{
     margin-left: 8%;
-}
+} */
 

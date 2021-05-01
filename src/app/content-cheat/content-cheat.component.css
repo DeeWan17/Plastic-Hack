@@ -1,11 +1,11 @@
 #description {
-    margin: 25px;
+    margin: 15px;
 }
 
 .description-text{
-    margin-left: 20px;
-    margin-right: 20px;
-    margin-bottom: 15px;
+    margin-left: 0px;
+    margin-right: 10px;
+    margin-bottom: 25px;
     color:rgba(255, 255, 255, 0.863);
 }
 
@@ -14,5 +14,5 @@
     margin-top: 90px;
     font-size: 25px;
     position: relative;
-    left: 3%;
+    /* left: 3%; */
 }
